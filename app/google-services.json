@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011594068700",
+    "project_id": "triviaapp-7d193",
+    "storage_bucket": "triviaapp-7d193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011594068700:android:85c850498b94f1df9aaa19",
+        "android_client_info": {
+          "package_name": "com.example.triviaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "my key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
